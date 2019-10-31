@@ -1,1 +1,1 @@
-EXPORT [ 80 ]
+EXPORT 80
